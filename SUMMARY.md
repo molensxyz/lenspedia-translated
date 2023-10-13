@@ -111,5 +111,6 @@
 
 ## Integrations
 
+* [📺 Unlonely](integrations/unlonely.md)
 * [XMTP](integrations/xmtp.md)
 * [Snapshot](integrations/snapshot.md)
