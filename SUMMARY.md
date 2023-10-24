@@ -6,6 +6,7 @@
 * [🧱 Podstawy Lens](poczatki/baza/README.md)
   * [How Lens Publications Work?](poczatki/baza/how-lens-publications-work.md)
   * [Difrence between Profile & Handle](poczatki/baza/difrence-between-profile-and-handle.md)
+* [📔 Słownik Pojęć](poczatki/slownik-pojec.md)
 * [🌿 Odbierz NFT swojego profilu](poczatki/odbierz.md)
 * [⚙ Skonfiguruj Swoj Profil](poczatki/ustawienia.md)
 * [❔ Poradniki ](poczatki/poradniki/README.md)
